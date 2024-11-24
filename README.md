@@ -1,5 +1,5 @@
 # Audit Portfolio  
-Contains my past audits and notable findings
+Contains my past audits and notable findings.
 
 # 2024
 
